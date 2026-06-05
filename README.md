@@ -12,6 +12,7 @@ executive operations.
 | Agent | Purpose |
 |---|---|
 | Alex — Elite Recruiter | 12-step resume tailoring, ATS optimization, salary strategy |
+| ATLAS — Financial Intelligence System | Autonomous daily market briefings via Python, Claude API, RSS aggregationJob Scout Filter |
 | Job Scout Filter | Filters job listings against specific criteria and scores fit |
 | Company Qualifier | Deep company intelligence before applying |
 
